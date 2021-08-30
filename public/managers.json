@@ -1,0 +1,52 @@
+{
+  "managers": [
+    {
+      "id": 1,
+      "title": "CONTROLE DE MEMBROS",
+      "description": "Visualização do perfil de todos os membros da comunidade. Filtragem por status.  Possibilidade de encontrar novas oportunidades de negócios.",
+      "icon": "person"
+    },
+    {
+      "id": 2,
+      "title": "AGENDAMENTO DE MENTORIAS",
+      "description": "Possibilidade de realizar agendamento com mentores. Os empreendedores podem disponibilizar alguns horários e auxiliar outros empreenderes de sua comunidade.",
+      "icon": "people"
+    },
+    {
+      "id": 3,
+      "title": "NEGÓCIOS DISPONÍVEIS",
+      "description": "Os membros podem incluir seus negócios, e podem visualizar todos os negócios da comunidade. ",
+      "icon": "store"
+    },
+    {
+      "id": 4,
+      "title": "COMISSÕES POR LEAD",
+      "description": "Aqui cada membro pode pagar comissão para outro, caso traga leads e indique seus negócios. Cada membro tem sua própria gestão de indicações em seu perfil.",
+      "icon": "credit_card"
+    },
+    {
+      "id": 5,
+      "title": "CLUBE DESCONTOS / BENEFÍCIOS",
+      "description": "Ferramenta com possibilidade de gestão de descontos e benefícios para associados.",
+      "icon": "workspace_premium"
+    },
+    {
+      "id": 6,
+      "title": "FEED DE NOTÍCIAS ABERTO",
+      "description": "Uma timeline onde tudo acontece, qualquer um pode postar seus negócios, eventos, oportunidades de emprego, o que você vende e o que quer comprar. Os conteúdos podem ou não ser liberador por um administrador.",
+      "icon": "chat"
+    },
+    {
+      "id": 7,
+      "title": "AGENDAMENTO DE SALAS",
+      "description": "Nunca mais os gestores precisam perder tempo organizando a agenda das salas. Agora os próprios membros selecionam na plataforma a sala desejada, e só precisam de um gestor interno para aprovar.",
+      "icon": "event"
+    },
+    {
+      "id": 8,
+      "title": "ACESSO A CONTEÚDOS",
+      "description": "Possibilidade de fazer up-load de todos os documentos que possam ser solicitados por membros da comunidade.  Atas de reuniões, documentos e formulários podem ser liberados pelos gestores da plataforma.",
+      "icon": "folder"
+    }
+  ]
+}
